@@ -1,0 +1,8 @@
+{
+  "name": "RUM_IONIC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "bacbbbaf"
+}
